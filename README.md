@@ -6,7 +6,7 @@
 <hr>
 <div align="center">
     <h3>🧑‍💻 About me :</h3>
-    <p>I'm AQA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow</p>
+    <p>I'm a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow</p>
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div style="display: flex; justify-content: center;">
