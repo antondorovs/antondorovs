@@ -6,7 +6,7 @@
 <hr>
 <div align="center">
     <h3>🧑‍💻 About me :</h3>
-    <p>I'm a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow</p>
+    <p>I'm a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montenegro</p>
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div style="display: flex; justify-content: center;">
@@ -142,67 +142,67 @@
 <hr>
 <!-- <div align="center">
     <h3>🔥 My Stats :</h3>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=antonismahonis)](https://git.io/streak-stats)
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=antonismahonis&theme=dark)](https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=antondorovs)](https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=antondorovs&theme=dark)](https://git.io/streak-stats)
     <br>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antonismahonis&theme=nightowl" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antondorovs&theme=nightowl" alt="GitHub Streak" /></a>
     <br>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonismahonis&layout=compact&theme=nightowl" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antondorovs&layout=compact&theme=nightowl" alt="GitHub Streak" /></a>
     <br>
-    <img src="https://komarev.com/ghpvc/?username=antonismahonis&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=antondorovs&style=flat-square&color=blue" alt=""/>
 </div> -->
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonismahonis&theme=nightowl" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antonismahonis&theme=nightowl" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonismahonis&theme=nightowl" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antondorovs&theme=nightowl" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antondorovs&theme=nightowl" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antondorovs&theme=nightowl" />
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=antonismahonis&style=flat-square&color=blue" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=antondorovs&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 <hr id="contacts">
 <div align="center">
     <h3>📍 Contacts: </h3>
-    <p>My Website 👉 <a href="https://antonismahonis.com/" target=”_blank” style="text-decoration: none;">antonismahonis.com</a></p>
-    <p>Follow me 👍 @antonismahonis</p>
+    <p>My Website 👉 <a href="https://antondorovs.com/" target=”_blank” style="text-decoration: none;">antondorovs.com</a></p>
+    <p>Follow me 👍 @antondorovs</p>
     <table align="center">
         <tr>
             <!-- Instagram -->
             <td align="center">
-                <a href="https://instagram.com/antonismahonis/" target="_blank" style="text-decoration: none;">
+                <a href="https://instagram.com/antondorovs/" target="_blank" style="text-decoration: none;">
                     <img src="./svg/instagram-color.svg" alt="Instagram" width="40" height="40"/>
                 </a>
                 <br/><p>Instagram</p>
             </td>
             <!-- Facebook -->
             <td align="center">
-                <a href="https://facebook.com/antonismahonis/" target="_blank" style="text-decoration: none;">
+                <a href="https://facebook.com/antondorovs/" target="_blank" style="text-decoration: none;">
                     <img src="./svg/facebook-color.svg" alt="Facebook" width="40" height="40"/>
                 </a>
                 <br/><p>Facebook</p>
             </td>
             <!-- Linkedin -->
             <td align="center">
-                <a href="https://linkedin.com/in/antonismahonis/" target="_blank" style="text-decoration: none;">
+                <a href="https://linkedin.com/in/antondorovs/" target="_blank" style="text-decoration: none;">
                     <img src="./svg/linkedin-color.svg" alt="Linkedin" width="40" height="40"/>
                 </a>
                 <br/><p>LinkedIn</p>
             </td>
             <!-- Telegram -->
             <td align="center">
-                <a href="https://t.me/antonismahonis/" target="_blank" style="text-decoration: none;">
+                <a href="https://t.me/antondorovs/" target="_blank" style="text-decoration: none;">
                     <img src="./svg/telegram-color.svg" alt="Telegram" width="40" height="40"/>
                 </a>
                 <br/><p>Telegram</p>
             </td>
             <!-- GitHub -->
             <td align="center">
-                <a href="https://github.com/antonismahonis/" target="_blank" style="text-decoration: none;">
+                <a href="https://github.com/antondorovs/" target="_blank" style="text-decoration: none;">
                     <img src="./svg/github-color.svg" alt="GitHub" width="40" height="40"/>
                 </a>
                 <br/><p>GitHub</p>
             </td>
         </tr>
     </table>
-    <p>My Email 👉 <a href="mailto:@antonismahonis@gmail.com" style="text-decoration: none;">antonismahonis@gmail.com</a></p>
+    <p>My Email 👉 <a href="mailto:@antondorovs@gmail.com" style="text-decoration: none;">antondorovs@gmail.com</a></p>
 </div>
 <hr id="blog">
 <div align="center">
@@ -219,7 +219,7 @@
 </div>
 
 <!--
-**antonismahonis/antonismahonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**antondorovs/antondorovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
