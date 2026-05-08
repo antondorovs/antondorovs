@@ -140,18 +140,16 @@
     </table>
 </div>
 <hr>
-<!-- <div align="center">
+<div id="stat" align="center">
     <h3>🔥 My Stats :</h3>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=antondorovs)](https://git.io/streak-stats)
+    <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=antondorovs)](https://git.io/streak-stats)
     [![GitHub Streak](https://streak-stats.demolab.com/?user=antondorovs&theme=dark)](https://git.io/streak-stats)
     <br>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antondorovs&theme=nightowl" alt="GitHub Streak" /></a>
     <br>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antondorovs&layout=compact&theme=nightowl" alt="GitHub Streak" /></a>
     <br>
-    <img src="https://komarev.com/ghpvc/?username=antondorovs&style=flat-square&color=blue" alt=""/>
-</div> -->
-<div id="stat" align="center">
+    <img src="https://komarev.com/ghpvc/?username=antondorovs&style=flat-square&color=blue" alt=""/> -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antondorovs&theme=nightowl" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antondorovs&theme=nightowl" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antondorovs&theme=nightowl" />
