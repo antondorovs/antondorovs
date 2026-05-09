@@ -6,10 +6,9 @@
 </div>
 <br>
 <hr id="about">
-<br>
 <div align="center">
     <h3>🧑‍💻 About me :</h3>
-    <p>Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montenegro 🇲🇪 🇲🇪 ⛰️ 🌅</p>
+    <p>Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montenegro ⛰️ 🌅</p>
     <p>Automation • Manual • Frontend • Backend • E2E • UI • API • Integration • Web • Mobile</p>
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -27,7 +26,6 @@
 </div>
 <br>
 <hr id="stack">
-<br>
 <div align="center">
     <h3>⚙️ My tech stack :</h3>
     <p>🛠️ Languages & Tools</p>
@@ -162,32 +160,25 @@
 </div>
 <br>
 <hr id="stats">
-<br>
 <div align="center">
     <h3>🔥 My Stats :</h3>
-    <!-- add -->
     <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=antondorovs)](https://git.io/streak-stats) -->
     <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=antondorovs&theme=dark)](https://git.io/streak-stats) -->
-    <!-- <br> -->
-    <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antondorovs&theme=nightowl" alt="GitHub Streak" /></a> -->
-    <!-- <br> -->
-    <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antondorovs&layout=compact&theme=nightowl" alt="GitHub Streak" /></a> -->
-    <!-- <br> -->
-    <!-- <img src="https://komarev.com/ghpvc/?username=antondorovs&style=flat-square&color=blue" alt=""/> -->
-    <!-- add -->
     <br>
+    <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antondorovs&theme=nightowl" alt="GitHub Streak" /></a> -->
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antondorovs&theme=nightowl" alt="GitHub Streak" /></a>
     <br>
+    <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antondorovs&layout=compact&theme=nightowl" alt="GitHub Streak" /></a> -->
     <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antondorovs&layout=compact&theme=nightowl" alt="GitHub Streak" /></a>
     <br>
+    <!-- <img src="https://komarev.com/ghpvc/?username=antondorovs&style=flat-square&color=blue" alt=""/> -->
     <img src="https://komarev.com/ghpvc/?username=antondorovs&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
 <hr id="contacts">
-<br>
 <div align="center">
     <h3>📍 Contacts: </h3>
-    <p>Get in touch @antondorovs</p>
+    <p>Get in touch @antondorovs 👈</p>
     <table align="center">
         <tr>
             <!-- Linkedin -->
@@ -227,12 +218,11 @@
             </td>
         </tr>
     </table>
-    <p>My website: <a href="https://antondorovs.com/" target="_blank" style="text-decoration: none;">antondorovs.com</a> 👈</p>
+    <p>My website: <a href="https://antondorovs.com/" target="_blank" style="text-decoration: none;">antondorovs.com</a></p>
     <p>My email: <a href="mailto:antondorovs@gmail.com" target="_blank" style="text-decoration: none;">antondorovs@gmail.com</a></p>
 </div>
 <br>
 <hr id="blog">
-<br>
 <div align="center">
     <h3>✍️ Blog Posts :</h3>
 </div>
