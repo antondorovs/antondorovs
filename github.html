@@ -6,7 +6,6 @@
 </div>
 <br>
 <hr id="about">
-<br>
 <div align="center">
     <h3>🧑‍💻 About me :</h3>
     <p>Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montenegro ⛰️ 🌅</p>
@@ -27,7 +26,6 @@
 </div>
 <br>
 <hr id="stack">
-<br>
 <div align="center">
     <h3>⚙️ My tech stack :</h3>
     <p>🛠️ Languages & Tools</p>
@@ -162,7 +160,6 @@
 </div>
 <br>
 <hr id="stats">
-<br>
 <div align="center">
     <h3>🔥 My Stats :</h3>
     <a href="https://github-readme-streak-stats.herokuapp.com/demo/" target="_blank" style="text-decoration: none;">
@@ -185,7 +182,6 @@
 </div>
 <br>
 <hr id="contacts">
-<br>
 <div align="center">
     <h3>📍 Contacts: </h3>
     <p>Get in touch <a href="#contacts" style="text-decoration: none;">@antondorovs</a> 👈</p>
@@ -233,18 +229,17 @@
 </div>
 <br>
 <hr id="blog">
-<br>
 <div align="center">
     <h3>✍️ Blog Posts :</h3>
 </div>
-<div style="display: flex; justify-content: center;">
+<div>
+    <p>BLOG-POST-LIST:START</p>
     <ul style="list-style-type: disc; padding-left: 20px;">
-        <p>BLOG-POST-LIST:START</p>
         <li><a href="#blog" style="text-decoration: none;">Post 1 Coming soon...</a></li>
         <li><a href="#blog" style="text-decoration: none;">Post 2 Coming soon...</a></li>
         <li><a href="#blog" style="text-decoration: none;">Post 3 Coming soon...</a></li>
-        <p>BLOG-POST-LIST:END</p>
     </ul>
+    <p>BLOG-POST-LIST:END</p>
 </div>
 <br>
 
