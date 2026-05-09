@@ -1,12 +1,16 @@
 <div align="center">    
-    <h3>Hi! <img href="#" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Anton 🤓</h3>
+    <h3>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Anton 🤓
+    <br>Full Stack QA Engineer</h3>
     <p>Welcome to my GitHub 😺</p>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<hr>
+<br>
+<hr id="about">
+<br>
 <div align="center">
     <h3>🧑‍💻 About me :</h3>
-    <p>I'm a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montenegro</p>
+    <p>Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montenegro 🇲🇪 🇲🇪 ⛰️ 🌅</p>
+    <p>Automation • Manual • Frontend • Backend • E2E • UI • API • Integration • Web • Mobile</p>
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div style="display: flex; justify-content: center;">
@@ -18,10 +22,12 @@
         <li>💬 Ask me about anything related to test automation, QA processes, and software quality assurance.</li>
         <li>📫 How to reach me: see the <a href="#contacts">📍 Contacts</a> section.</li>
         <li>😄 Pronouns: He/Him.</li>
-        <li>⚡ Fun fact: I'm a freediving instructor, also I like traveling and outdoors activities.</li>
+        <li>⚡ Fun fact: I'm a freediving instructor, sailing skipper and also I like traveling and outdoors activities.</li>
     </ul>
 </div>
-<hr>
+<br>
+<hr id="stack">
+<br>
 <div align="center">
     <h3>⚙️ My tech stack :</h3>
     <p>🛠️ Languages & Tools</p>
@@ -30,191 +36,216 @@
             <!-- JavaScript -->
             <td align="center">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/javascript-color.svg" alt="JavaScript" width="40" height="40"/>
+                    <img src="./svg/javascript.svg" alt="JavaScript" width="40" height="40"/><br/>
                 </a>
                 <br/><p>JavaScript</p>
             </td>
+            <!-- JavaScript -->
+            <!-- TypeScript -->
+            <td align="center">
+                <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/typescript.svg" alt="TypeScript" width="40" height="40"/><br/>
+                </a>
+                <br/><p>TypeScript</p>
+            </td>
+            <!-- TypeScript -->
             <!-- HTML -->
             <td align="center">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
-                <img src="./svg/html5-color.svg" alt="HTML" width="40" height="40"/>
-            </a>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/html5.svg" alt="HTML" width="40" height="40"/><br/>
+                </a>
                 <br/><p>HTML</p>
             </td>
+            <!-- HTML -->
+            <!-- CSS -->
+            <td align="center">
+                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/css3.svg" alt="CSS" width="40" height="40"/><br/>
+                </a>
+                <br/><p>CSS</p>
+            </td>
+            <!-- CSS -->
+            <!-- Playwright -->
+            <td align="center">
+                <a href="https://playwright.dev/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/playwright.png" alt="Playwright" width="40" height="40"/><br/>
+                </a>
+                <br/><p>Playwright</p>
+            </td>
+            <!-- Playwright -->
+        </tr>
+        <tr>
             <!-- Postman -->
             <td align="center">
                 <a href="https://www.postman.com/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/postman-color.svg" alt="Postman" width="40" height="40"/>
+                <img src="./svg/postman.svg" alt="Postman" width="40" height="40"/><br/>
                 </a>
-                <br/><p>Postman</p>
+            <br/><p>Postman</p>
             </td>
-            <!-- GIT -->
+            <!-- Postman -->
+            <!-- Swagger -->
             <td align="center">
-            <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-                <img src="./svg/git-color.svg" alt="GIT" width="40" height="40"/>
-            </a>
-                <br/><p>GIT</p>
+                <a href="https://swagger.io/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/swagger.png" alt="Swagger" width="40" height="40"/><br/>
+                </a>
+                <br/><p>Swagger</p>
             </td>
-            <!-- WebSocket -->
+            <!-- Swagger -->
+            <!-- SQL -->
             <td align="center">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" style="text-decoration: none;">
-                <img src="./svg/websocket-color.svg" alt="WebSocket" width="40" height="40"/>
-            </a>
-                <br/><p>WebSocket</p>
+                <a href="https://sql-page.com/documentation.sql" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/sql.png" alt="SQL" width="40" height="40"/><br/>
+                </a>
+                <br/><p>SQL</p>
             </td>
-            </tr>
-            <tr>
-                <!-- TypeScript -->
-                <td align="center">
-                <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/typescript-color.svg" alt="TypeScript" width="40" height="40"/>
-                </a>
-                    <br/><p>TypeScript</p>
-                </td>
-                <!-- CSS -->
-                <td align="center">
-                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/css3-color.svg" alt="CSS" width="40" height="40"/>
-                </a>
-                    <br/><p>CSS</p>
-                </td>
-                <!-- Docker -->
-                <td align="center">
-                <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/docker-color.svg" alt="Docker" width="40" height="40"/>
-                </a>
-                    <br/><p>Docker</p>
-                </td>
-                <!-- Sequelize -->
-                <td align="center">
-                <a href="https://sequelize.org/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/sequelize-color.svg" alt="Sequelize" width="40" height="40"/>
-                </a>
-                    <br/><p>Sequelize</p>
-                </td>
-                <!-- React -->
-                <td align="center">
-                <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/react-color.svg" alt="React" width="40" height="40"/>
-                </a>
-                    <br/><p>React</p>
-                </td>
-            </tr>
-            <tr>
-            <!-- Django -->
-            <td align="center">
-            <a href="https://www.djangoproject.com/" target="_blank" style="text-decoration: none;">
-                <img src="./svg/django-color.svg" alt="Django" width="40" height="40"/>
-                </a>
-                <br/><p>Django</p>
-            </td>
-            <!-- Node.js -->
-            <td align="center">
-            <a href="https://nodejs.org/en/" target="_blank" style="text-decoration: none;">
-                <img src="./svg/nodedotjs-color.svg" alt="Node.js" width="40" height="40"/>
-            </a>
-                <br/><p>Node.js</p>
-            </td>
-            <!-- PostgreSQL -->
+            <!-- SQL -->
+            <!-- PostgresSQL -->
             <td align="center">
                 <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/postgresql-color.svg" alt="PostgreSQL" width="40" height="40"/>
+                    <img src="./svg/postgresql.svg" alt="PostgresSQL" width="40" height="40"/><br/>
                 </a>
                 <br/><p>PostgreSQL</p>
             </td>
-            <!-- Redux -->
+            <!-- PostgresSQL -->
+            <!-- Kafka -->
             <td align="center">
-                <a href="https://redux.js.org/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/redux-color.svg" alt="Redux" width="40" height="40"/>
+                <a href="https://kafka.apache.org/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/kafka.svg" alt="Kafka" width="40" height="40"/><br/>
                 </a>
-                <br/><p>Redux</p>
+                <br/><p>Kafka</p>
             </td>
-            <!-- Express -->
+            <!-- Kafka -->
+        </tr>
+        <tr>
+            <!-- Kubernetes -->
             <td align="center">
-            <a href="https://expressjs.com/" target="_blank" style="text-decoration: none;">
-                <img src="./svg/express-color.svg" alt="Express" width="40" height="40"/>
-            </a>
-                <br/><p>Express</p>
+                <a href="https://kubernetes.io/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/kubernetes.png" alt="Kubernetes" width="40" height="40"/><br/>
+                </a>
+                <br/><p>Kubernetes</p>
             </td>
+            <!-- Kubernetes -->
+            <!-- Docker -->
+            <td align="center">
+                <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/docker.svg" alt="Docker" width="40" height="40"/><br/>
+                </a>
+                <br/><p>Docker</p>
+            </td>
+            <!-- Docker -->
+            <!-- CI/CD -->
+            <td align="center">
+                <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/cicd.webp" alt="CI/CD" width="40" height="40"/><br/>
+                </a>
+                <br/><p>CI/CD</p>
+            </td>
+            <!-- CI/CD -->
+            <!-- Jenkins -->
+            <td align="center">
+                <a href="https://www.jenkins.io/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/jenkins.png" alt="Jenkins" width="40" height="40"/><br/>
+                </a>
+                <br/><p>Jenkins</p>
+            </td>
+            <!-- Jenkins -->
+            <!-- Elasticsearch -->
+            <td align="center">
+                <a href="https://www.elastic.co/elasticsearch" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/elasticsearch.png" alt="Elasticsearch" width="40" height="40"/><br/>
+                </a>
+                <br/><p>Elastic</p>
+            </td>
+            <!-- Elasticsearch -->
         </tr>
     </table>
 </div>
-<hr>
-<div id="stat" align="center">
+<br>
+<hr id="stats">
+<br>
+<div align="center">
     <h3>🔥 My Stats :</h3>
-    <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=antondorovs)](https://git.io/streak-stats)
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=antondorovs&theme=dark)](https://git.io/streak-stats)
+    <!-- add -->
+    <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=antondorovs)](https://git.io/streak-stats) -->
+    <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=antondorovs&theme=dark)](https://git.io/streak-stats) -->
+    <!-- <br> -->
+    <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antondorovs&theme=nightowl" alt="GitHub Streak" /></a> -->
+    <!-- <br> -->
+    <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antondorovs&layout=compact&theme=nightowl" alt="GitHub Streak" /></a> -->
+    <!-- <br> -->
+    <!-- <img src="https://komarev.com/ghpvc/?username=antondorovs&style=flat-square&color=blue" alt=""/> -->
+    <!-- add -->
     <br>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antondorovs&theme=nightowl" alt="GitHub Streak" /></a>
     <br>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antondorovs&layout=compact&theme=nightowl" alt="GitHub Streak" /></a>
     <br>
-    <img src="https://komarev.com/ghpvc/?username=antondorovs&style=flat-square&color=blue" alt=""/> -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antondorovs&theme=nightowl" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antondorovs&theme=nightowl" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antondorovs&theme=nightowl" />
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=antondorovs&style=flat-square&color=blue" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=antondorovs&style=flat-square&color=blue" alt=""/>
 </div>
+<br>
 <hr id="contacts">
+<br>
 <div align="center">
     <h3>📍 Contacts: </h3>
-    <p>My Website 👉 <a href="https://antondorovs.com/" target=”_blank” style="text-decoration: none;">antondorovs.com</a></p>
-    <p>Follow me 👍 @antondorovs</p>
+    <p>Get in touch @antondorovs</p>
     <table align="center">
         <tr>
-            <!-- Instagram -->
-            <td align="center">
-                <a href="https://instagram.com/antondorovs/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/instagram-color.svg" alt="Instagram" width="40" height="40"/>
-                </a>
-                <br/><p>Instagram</p>
-            </td>
-            <!-- Facebook -->
-            <td align="center">
-                <a href="https://facebook.com/antondorovs/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/facebook-color.svg" alt="Facebook" width="40" height="40"/>
-                </a>
-                <br/><p>Facebook</p>
-            </td>
             <!-- Linkedin -->
             <td align="center">
                 <a href="https://linkedin.com/in/antondorovs/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/linkedin-color.svg" alt="Linkedin" width="40" height="40"/>
+                    <img src="./svg/linkedin.svg" alt="Linkedin" width="40" height="40"/><br/>
+                    <!-- Linkedin -->
                 </a>
-                <br/><p>LinkedIn</p>
-            </td>
-            <!-- Telegram -->
-            <td align="center">
-                <a href="https://t.me/antondorovs/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/telegram-color.svg" alt="Telegram" width="40" height="40"/>
-                </a>
-                <br/><p>Telegram</p>
             </td>
             <!-- GitHub -->
             <td align="center">
                 <a href="https://github.com/antondorovs/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/github-color.svg" alt="GitHub" width="40" height="40"/>
+                    <img src="./svg/github.svg" alt="GitHub" width="40" height="40"/><br/>
+                    <!-- GitHub -->
                 </a>
-                <br/><p>GitHub</p>
+            </td>
+            <!-- Telegram -->
+            <td align="center">
+                <a href="https://t.me/antondorovs/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/telegram.svg" alt="Telegram" width="40" height="40"/><br/>
+                    <!-- Telegram -->
+                </a>
+            </td>
+            <!-- Instagram -->
+            <td align="center">
+                <a href="https://instagram.com/antondorovs/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/instagram.svg" alt="Instagram" width="40" height="40"/><br/>
+                    <!-- Instagram -->
+                </a>
+            </td>
+            <!-- Facebook -->
+            <td align="center">
+                <a href="https://facebook.com/antondorovs/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/facebook.svg" alt="Facebook" width="40" height="40"/><br/>
+                    <!-- Facebook -->
+                </a>
             </td>
         </tr>
     </table>
-    <p>My Email 👉 <a href="mailto:@antondorovs@gmail.com" style="text-decoration: none;">antondorovs@gmail.com</a></p>
+    <p>My website: <a href="https://antondorovs.com/" target="_blank" style="text-decoration: none;">antondorovs.com</a> 👈</p>
+    <p>My email: <a href="mailto:antondorovs@gmail.com" target="_blank" style="text-decoration: none;">antondorovs@gmail.com</a></p>
 </div>
+<br>
 <hr id="blog">
+<br>
 <div align="center">
     <h3>✍️ Blog Posts :</h3>
-    <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
 </div>
 <div style="display: flex; justify-content: center;">
     <ul style="list-style-type: disc; padding-left: 20px;">
-        <li><a href="#blog" style="text-decoration: none;">Test Post 1</a></li>
-        <li><a href="#blog" style="text-decoration: none;">Test Post 2</a></li>
-        <li><a href="#blog" style="text-decoration: none;">Test Post 3</a></li>
+        <p>BLOG-POST-LIST:START</p><br>
+        <li><a href="#blog" style="text-decoration: none;">Post 1 Coming soon...</a></li>
+        <li><a href="#blog" style="text-decoration: none;">Post 2 Coming soon...</a></li>
+        <li><a href="#blog" style="text-decoration: none;">Post 3 Coming soon...</a></li>
+        <br><p>BLOG-POST-LIST:END</p>
     </ul>
 </div>
+<br>
 
 <!--
 **antondorovs/antondorovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
