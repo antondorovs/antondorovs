@@ -1,14 +1,14 @@
 <div align="center">    
     <h3>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Anton 🤓
-    <br>Full Stack QA Engineer</h3>
-    <p>Welcome to my GitHub 😺</p>
+    <br>a Full Stack QA Engineer</h3>
+    <p>Welcome to my Git space 🚀🐱🦊</p>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <br>
 <hr id="about">
 <div align="center">
     <h3>🧑‍💻 About me :</h3>
-    <p>Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montenegro ⛰️ 🌅</p>
+    <p>Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montenegro ⛰️🌅</p>
     <p>Automation • Manual • Frontend • Backend • E2E • UI • API • Integration • Web • Mobile</p>
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -29,8 +29,9 @@
 <div align="center">
     <h3>⚙️ My tech stack :</h3>
     <p>🛠️ Languages & Tools</p>
-    <table>
-        <tr>
+    <div align="center">
+    <table align="center">
+        <tr align="center">
             <!-- JavaScript -->
             <td align="center">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
@@ -157,6 +158,7 @@
             <!-- Jenkins -->
         </tr>
     </table>
+    </div>
 </div>
 <br>
 <hr id="stats">
@@ -185,15 +187,9 @@
 <div align="center">
     <h3>📍 Contacts: </h3>
     <p>Get in touch <a href="#contacts" style="text-decoration: none;">@antondorovs</a> 👈</p>
+    <div align="center">
     <table align="center">
-        <tr>
-            <!-- Linkedin -->
-            <td align="center">
-                <a href="https://linkedin.com/in/antondorovs/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/linkedin.svg" alt="Linkedin" width="40" height="40"/><br/>
-                </a>
-            </td>
-            <!-- Linkedin -->
+        <tr align="center">
             <!-- Telegram -->
             <td align="center">
                 <a href="https://t.me/antondorovs/" target="_blank" style="text-decoration: none;">
@@ -201,20 +197,20 @@
                 </a>
             </td>
             <!-- Telegram -->
-            <!-- X -->
-            <td align="center">
-                <a href="https://x.com/antondorovs/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/x.png" alt="X" width="40" height="40"/><br/>
-                </a>
-            </td>
-            <!-- X -->
             <!-- GitHub -->
             <td align="center">
                 <a href="https://github.com/antondorovs/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/github.svg" alt="GitHub" width="40" height="40"/><br/>
+                    <img src="./svg/github.png" alt="GitHub" width="40" height="40"/><br/>
                 </a>
             </td>
             <!-- GitHub -->
+            <!-- Linkedin -->
+            <td align="center">
+                <a href="https://linkedin.com/in/antondorovs/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/linkedin.svg" alt="Linkedin" width="40" height="40"/><br/>
+                </a>
+            </td>
+            <!-- Linkedin -->
             <!-- GitLab -->
             <td align="center">
                 <a href="https://gitlab.com/antondorovs" target="_blank" style="text-decoration: none;">
@@ -222,8 +218,16 @@
                 </a>
             </td>
             <!-- GitLab -->
+            <!-- X -->
+            <td align="center">
+                <a href="https://x.com/antondorovs/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/x.png" alt="X" width="40" height="40"/><br/>
+                </a>
+            </td>
+            <!-- X -->
         </tr>
     </table>
+    </div>
     <p>My website: <a href="https://antondorovs.com/" target="_blank" style="text-decoration: none;">antondorovs.com</a></p>
     <p>My email: <a href="mailto:antondorovs@gmail.com" target="_blank" style="text-decoration: none;">antondorovs@gmail.com</a></p>
 </div>
@@ -231,17 +235,18 @@
 <hr id="blog">
 <div align="center">
     <h3>✍️ Blog Posts :</h3>
-</div>
-<div>
     <p>BLOG-POST-LIST:START</p>
-    <ul style="list-style-type: disc; padding-left: 20px;">
-        <li><a href="#blog" style="text-decoration: none;">Post 1 Coming soon...</a></li>
-        <li><a href="#blog" style="text-decoration: none;">Post 2 Coming soon...</a></li>
-        <li><a href="#blog" style="text-decoration: none;">Post 3 Coming soon...</a></li>
-    </ul>
+    <div style="display: flex; justify-content: center;">
+        <ul style="list-style-type: disc; padding-left: 20px;">
+            <li><a href="#blog" style="text-decoration: none;">Post 1 Coming soon...</a></li>
+            <li><a href="#blog" style="text-decoration: none;">Post 2 Coming soon...</a></li>
+            <li><a href="#blog" style="text-decoration: none;">Post 3 Coming soon...</a></li>
+        </ul>
+    </div>
     <p>BLOG-POST-LIST:END</p>
 </div>
 <br>
+
 
 <!--
 **antondorovs/antondorovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
