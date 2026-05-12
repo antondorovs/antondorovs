@@ -1,14 +1,14 @@
 <div align="center">    
     <h3>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Anton 🤓
     <br>a Full Stack QA Engineer</h3>
-    <p>Welcome to my Git space 🚀🐱🦊</p>
+    <p>Welcome to my Git space 🐱🦊🚀</p>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <br>
 <hr id="about">
 <div align="center">
     <h3>🧑‍💻 About me :</h3>
-    <p>Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montenegro ⛰️🌅</p>
+    <p>Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montenegro ⛰️🏞️🌅</p>
     <p>Automation • Manual • Frontend • Backend • E2E • UI • API • Integration • Web • Mobile</p>
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
