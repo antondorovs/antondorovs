@@ -31,7 +31,7 @@
     <p>🛠️ Languages & Tools</p>
     <div align="center">
     <table align="center">
-        <tr align="center">
+        <tr>
             <!-- JavaScript -->
             <td align="center">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
@@ -175,7 +175,7 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antondorovs&theme=nightowl" alt="GitHub Streak" />
         <br>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antondorovs&theme=nightowl" alt="GitHub Streak">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antondorovs&theme=nightowl&utcOffset=8" alt="GitHub Streak">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antondorovs&theme=nightowl&utcOffset=1" alt="GitHub Streak">
     </a>
     <br><br>
     <a href="https://komarev.com/ghpvc" target="_blank" style="text-decoration: none;">
@@ -189,7 +189,7 @@
     <p>Get in touch <a href="#contacts" style="text-decoration: none;">@antondorovs</a> 👈</p>
     <div align="center">
     <table align="center">
-        <tr align="center">
+        <tr>
             <!-- Telegram -->
             <td align="center">
                 <a href="https://t.me/antondorovs/" target="_blank" style="text-decoration: none;">
@@ -246,7 +246,6 @@
     <p>BLOG-POST-LIST:END</p>
 </div>
 <br>
-
 
 <!--
 **antondorovs/antondorovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
